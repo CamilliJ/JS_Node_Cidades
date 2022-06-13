@@ -1,0 +1,13 @@
+{
+  "name": "nodecidades",
+  "version": "1.0.0",
+  "description": "Trabalho Node Cidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Camilli J",
+  "license": "ISC",
+  "type": "module"
+}
